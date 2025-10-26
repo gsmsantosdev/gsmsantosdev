@@ -1,3 +1,3 @@
-[<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/8e2d9d93-aade-4a08-8562-daa0873ade10" />](https://www.pexels.com/pt-br/video/projecao-digital-da-massa-terrestre-em-luzes-azuis-3129957/)
+<https://www.pexels.com/pt-br/video/projecao-digital-da-massa-terrestre-em-luzes-azuis-3129957 />
 ## Hi there 👋s
 [![My Skills](https://skillicons.dev/icons?i=html,js,css)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://skillicons.dev)
