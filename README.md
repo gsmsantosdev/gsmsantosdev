@@ -7,7 +7,7 @@ Atuo na criação de **sites, sistemas web e aplicativos** com foco em performan
 ### 🚀 Tecnologias que domino  
 <div align="center">
 
-<img width="40" height="40" alt="HTML5" src="https://github.com/user-attachments/assets/97c064f2-efac-42e9-a046-59b47df27e9b" style="border-radius:8px;"/>  
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <img width="40" height="40" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="margin:10px;">  
 <img width="40" height="40" alt="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="margin:10px;">  
 <img width="40" height="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="margin:10px;">  
