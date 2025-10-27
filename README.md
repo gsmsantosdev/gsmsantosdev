@@ -4,16 +4,38 @@ Atuo na criação de **sites, sistemas web e aplicativos** com foco em performan
 
 ---
 
-### 🚀 Tecnologias que domino  
+## 💻 Linguagens & Tecnologias
+
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL">
+<!-- Linguagens principais -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" title="HTML5" style="background:#1e1e1e;padding:10px;border-radius:10px;border:2px solid #e34f26;box-shadow:0 0 8px rgba(227,79,38,0.6);margin:10px;">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" title="CSS3" style="background:#1e1e1e;padding:10px;border-radius:10px;border:2px solid #264de4;box-shadow:0 0 8px rgba(38,77,228,0.6);margin:10px;">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" title="JavaScript" style="background:#1e1e1e;padding:10px;border-radius:10px;border:2px solid #f7df1e;box-shadow:0 0 8px rgba(247,223,30,0.6);margin:10px;">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" title="Python" style="background:#1e1e1e;padding:10px;border-radius:10px;border:2px solid #3776ab;box-shadow:0 0 8px rgba(55,118,171,0.6);margin:10px;">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" title="Java" style="background:#1e1e1e;padding:10px;border-radius:10px;border:2px solid #007396;box-shadow:0 0 8px rgba(0,115,150,0.6);margin:10px;">  
+
+<!-- Frameworks & Bibliotecas -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" alt="TailwindCSS" title="TailwindCSS" style="background:#1e1e1e;padding:10px;border-radius:10px;border:2px solid #38bdf8;box-shadow:0 0 8px rgba(56,189,248,0.6);margin:10px;">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap" title="Bootstrap" style="background:#1e1e1e;padding:10px;border-radius:10px;border:2px solid #7952b3;box-shadow:0 0 8px rgba(121,82,179,0.6);margin:10px;">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" title="React" style="background:#1e1e1e;padding:10px;border-radius:10px;border:2px solid #61dafb;box-shadow:0 0 8px rgba(97,218,251,0.6);margin:10px;">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50" alt="Vue.js" title="Vue.js" style="background:#1e1e1e;padding:10px;border-radius:10px;border:2px solid #42b883;box-shadow:0 0 8px rgba(66,184,131,0.6);margin:10px;">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" title="Node.js" style="background:#1e1e1e;padding:10px;border-radius:10px;border:2px solid #3c873a;box-shadow:0 0 8px rgba(60,135,58,0.6);margin:10px;">  
+
+<!-- Banco de Dados -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" title="MySQL" style="background:#1e1e1e;padding:10px;border-radius:10px;border:2px solid #00758f;box-shadow:0 0 8px rgba(0,117,143,0.6);margin:10px;">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" title="PostgreSQL" style="background:#1e1e1e;padding:10px;border-radius:10px;border:2px solid #336791;box-shadow:0 0 8px rgba(51,103,145,0.6);margin:10px;">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" title="MongoDB" style="background:#1e1e1e;padding:10px;border-radius:10px;border:2px solid #4db33d;box-shadow:0 0 8px rgba(77,179,61,0.6);margin:10px;">  
+
+<!-- Outras Tecnologias -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" title="Git" style="background:#1e1e1e;padding:10px;border-radius:10px;border:2px solid #f05032;box-shadow:0 0 8px rgba(240,80,50,0.6);margin:10px;">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" title="GitHub" style="background:#1e1e1e;padding:10px;border-radius:10px;border:2px solid #fff;box-shadow:0 0 8px rgba(255,255,255,0.3);margin:10px;">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" title="VS Code" style="background:#1e1e1e;padding:10px;border-radius:10px;border:2px solid #0078d7;box-shadow:0 0 8px rgba(0,120,215,0.6);margin:10px;">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" title="Docker" style="background:#1e1e1e;padding:10px;border-radius:10px;border:2px solid #2496ed;box-shadow:0 0 8px rgba(36,150,237,0.6);margin:10px;">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" title="Linux" style="background:#1e1e1e;padding:10px;border-radius:10px;border:2px solid #fcc624;box-shadow:0 0 8px rgba(252,198,36,0.6);margin:10px;">  
 
 </div>
+
 
 ---
 
