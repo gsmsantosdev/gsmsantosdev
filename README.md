@@ -1,5 +1,7 @@
-<!-- Banner -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=180&section=header&text=Santos%20Developer&fontColor=00ffbb&fontSize=45&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Python%20%26%20Web%20Apps&descAlignY=55&descAlign=50)
+
+
+Uploading 5636815-uhd_3840_2160_30fps.mp4…
+
 
 ---
 
