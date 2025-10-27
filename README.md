@@ -1,4 +1,4 @@
-
+<img src="https://images.pexels.com/videos/5636815/computer-keyboard-electronic-keyboard-keyboard-5636815.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
 ### 👨‍💻 Sobre mim  
 💡 Desenvolvedor Full Stack apaixonado por tecnologia e design.  
 🚀 Crio sites e aplicativos modernos com **Python**, **HTML**, **CSS**, **JavaScript** e um toque de **Tailwind**.  
@@ -28,7 +28,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantosDeveloper&layout=compact&theme=github_dark&title_color=00ffbb&hide_border=true&bg_color=0d1117)
 
 </div>
-<img src="https://images.pexels.com/videos/5636815/computer-keyboard-electronic-keyboard-keyboard-5636815.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
 
 ---
 
