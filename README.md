@@ -16,7 +16,6 @@ Atuo na criação de **sites, sistemas web e aplicativos** com foco em performan
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" title="Java" style="background:#1e1e1e;padding:10px;border-radius:10px;border:2px solid #007396;box-shadow:0 0 8px rgba(0,115,150,0.6);margin:10px;">  
 
 <!-- Frameworks & Bibliotecas -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" alt="TailwindCSS" title="TailwindCSS" style="background:#1e1e1e;padding:10px;border-radius:10px;border:2px solid #38bdf8;box-shadow:0 0 8px rgba(56,189,248,0.6);margin:10px;">  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap" title="Bootstrap" style="background:#1e1e1e;padding:10px;border-radius:10px;border:2px solid #7952b3;box-shadow:0 0 8px rgba(121,82,179,0.6);margin:10px;">  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" title="React" style="background:#1e1e1e;padding:10px;border-radius:10px;border:2px solid #61dafb;box-shadow:0 0 8px rgba(97,218,251,0.6);margin:10px;">  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50" alt="Vue.js" title="Vue.js" style="background:#1e1e1e;padding:10px;border-radius:10px;border:2px solid #42b883;box-shadow:0 0 8px rgba(66,184,131,0.6);margin:10px;">  
