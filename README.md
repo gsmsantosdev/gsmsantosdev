@@ -1,5 +1,5 @@
 ![Banner](https://i.imgur.com/seuBanner.gif)
----
+
 
 ### 👨‍💻 Sobre mim  
 💡 Desenvolvedor Full Stack apaixonado por tecnologia e design.  
