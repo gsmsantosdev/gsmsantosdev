@@ -3,5 +3,5 @@
 # Expêriencias
 
 <span style="background:#000; padding:6px; border-radius:8px; display:inline-block;">
-  <img width="18" height="18" alt="HTML" src="https://github.com/user-attachments/assets/97c064f2-efac-42e9-a046-59b47df27e9b" />
+  <img width="58" height="58" alt="HTML" src="https://github.com/user-attachments/assets/97c064f2-efac-42e9-a046-59b47df27e9b" />
 </span>
