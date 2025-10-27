@@ -1,10 +1,8 @@
-<img src="https://github.com/user-attachments/assets/c60ae1e1-f08b-461c-9c8f-9884e08605a4">
+<img src="[https://github.com/user-attachments/assets/c60ae1e1-f08b-461c-9c8f-9884e08605a4](https://github.com/user-attachments/assets/6fb3cf5d-b3f8-462a-8e23-b5e1d4511ca9)">
 ### 👨‍💻 Sobre mim  
 💡 Desenvolvedor Full Stack apaixonado por tecnologia e design.  
 🚀 Crio sites e aplicativos modernos com **Python**, **HTML**, **CSS**, **JavaScript** e um toque de **Tailwind**.  
 🎯 Sempre buscando novas ideias e soluções criativas para web.  
-
----
 
 ### 🛠️ Tecnologias e Ferramentas
 <div align="center">
