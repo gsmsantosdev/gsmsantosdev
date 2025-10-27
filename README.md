@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/seuBanner.gif)
+![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
 
 
 ### 👨‍💻 Sobre mim  
