@@ -1,4 +1,4 @@
-<img src="[https://images.pexels.com/videos/5636815/computer-keyboard-electronic-keyboard-keyboard-5636815.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2](https://www.canva.com/design/DAG3A4cg2rc/ZhdMiuidEQ8ynuOlDUZZ8A/edit?utm_content=DAG3A4cg2rc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)">
+<img src="https://www.canva.com/design/DAG3A4cg2rc/ZhdMiuidEQ8ynuOlDUZZ8A/edit?utm_content=DAG3A4cg2rc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 ### 👨‍💻 Sobre mim  
 💡 Desenvolvedor Full Stack apaixonado por tecnologia e design.  
 🚀 Crio sites e aplicativos modernos com **Python**, **HTML**, **CSS**, **JavaScript** e um toque de **Tailwind**.  
