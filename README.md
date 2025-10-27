@@ -30,8 +30,6 @@ Atuo na criação de **sites, sistemas web e aplicativos** com foco em performan
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" title="Git" style="background:#1e1e1e;padding:10px;border-radius:10px;border:2px solid #f05032;box-shadow:0 0 8px rgba(240,80,50,0.6);margin:10px;">  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" title="GitHub" style="background:#1e1e1e;padding:10px;border-radius:10px;border:2px solid #fff;box-shadow:0 0 8px rgba(255,255,255,0.3);margin:10px;">  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" title="VS Code" style="background:#1e1e1e;padding:10px;border-radius:10px;border:2px solid #0078d7;box-shadow:0 0 8px rgba(0,120,215,0.6);margin:10px;">  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" title="Docker" style="background:#1e1e1e;padding:10px;border-radius:10px;border:2px solid #2496ed;box-shadow:0 0 8px rgba(36,150,237,0.6);margin:10px;">  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" title="Linux" style="background:#1e1e1e;padding:10px;border-radius:10px;border:2px solid #fcc624;box-shadow:0 0 8px rgba(252,198,36,0.6);margin:10px;">  
 
 </div>
 
