@@ -8,7 +8,7 @@ Atuo na criação de **sites, sistemas web e aplicativos** com foco em performan
 <div align="center">
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<img width="40" height="40" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="margin:10px;">  
+<img width="40" height="40" alt="CSS3" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">  
 <img width="40" height="40" alt="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="margin:10px;">  
 <img width="40" height="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="margin:10px;">  
 <img width="40" height="40" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="margin:10px;">  
