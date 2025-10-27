@@ -3,5 +3,4 @@
 # Expêriencias
 
 <img width="12" height="12" alt="image" src="https://github.com/user-attachments/assets/97c064f2-efac-42e9-a046-59b47df27e9b" />
-" />
 
