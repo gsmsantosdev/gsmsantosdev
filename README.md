@@ -1,4 +1,4 @@
-<img src="https://images.pexels.com/photos/207700/pexels-photo-207700.jpeg">
+<img src="https://github.com/user-attachments/assets/c60ae1e1-f08b-461c-9c8f-9884e08605a4">
 ### 👨‍💻 Sobre mim  
 💡 Desenvolvedor Full Stack apaixonado por tecnologia e design.  
 🚀 Crio sites e aplicativos modernos com **Python**, **HTML**, **CSS**, **JavaScript** e um toque de **Tailwind**.  
