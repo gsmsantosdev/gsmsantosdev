@@ -1,4 +1,4 @@
-<img src="file:///C:/Users/1039090/Desktop/trabalho/Banner%20elegante%20loja%20de%20roupas%20moda%20esportiva%20preto%20e%20branco%20(1).png">
+<img src="https://images.pexels.com/photos/207700/pexels-photo-207700.jpeg">
 ### 👨‍💻 Sobre mim  
 💡 Desenvolvedor Full Stack apaixonado por tecnologia e design.  
 🚀 Crio sites e aplicativos modernos com **Python**, **HTML**, **CSS**, **JavaScript** e um toque de **Tailwind**.  
