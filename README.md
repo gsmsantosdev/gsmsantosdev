@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/47b82455-34d8-4ec2-8562-ef36985807e3" />## 👨‍💻 Santos Developer  
+<img src="https://github.com/user-attachments/assets/47b82455-34d8-4ec2-8562-ef36985807e3" />
 
 <div align="center">
 
