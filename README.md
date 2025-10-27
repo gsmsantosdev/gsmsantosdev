@@ -2,5 +2,5 @@
 
 # Expêriencias
 
-<img width="12" height="12" style="background: black;" alt="image" src="https://github.com/user-attachments/assets/97c064f2-efac-42e9-a046-59b47df27e9b" />
+<img width="12" height="12" bg="black" alt="image" src="https://github.com/user-attachments/assets/97c064f2-efac-42e9-a046-59b47df27e9b" />
 
