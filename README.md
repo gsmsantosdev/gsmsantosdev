@@ -1,8 +1,4 @@
 
-https://github.com/user-attachments/assets/567815b5-3335-4ece-94d2-b3bd4785c996
-https://images.pexels.com/videos/5636815/computer-keyboard-electronic-keyboard-keyboard-5636815.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-
-
 ---
 
 ### 👨‍💻 Sobre mim  
