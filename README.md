@@ -24,7 +24,6 @@ Atuo na criação de **sites, sistemas web e aplicativos** com foco em performan
 <!-- Banco de Dados -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" title="MySQL" style="background:#1e1e1e;padding:10px;border-radius:10px;border:2px solid #00758f;box-shadow:0 0 8px rgba(0,117,143,0.6);margin:10px;">  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" title="PostgreSQL" style="background:#1e1e1e;padding:10px;border-radius:10px;border:2px solid #336791;box-shadow:0 0 8px rgba(51,103,145,0.6);margin:10px;">  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" title="MongoDB" style="background:#1e1e1e;padding:10px;border-radius:10px;border:2px solid #4db33d;box-shadow:0 0 8px rgba(77,179,61,0.6);margin:10px;">  
 
 <!-- Outras Tecnologias -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" title="Git" style="background:#1e1e1e;padding:10px;border-radius:10px;border:2px solid #f05032;box-shadow:0 0 8px rgba(240,80,50,0.6);margin:10px;">  
